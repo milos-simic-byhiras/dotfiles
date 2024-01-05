@@ -1,3 +1,3 @@
 #!/bin/bash
 
-cat .bashrc >> ~/.bashrc
+cat ./scripts/.bashrc >> ~/.bashrc
