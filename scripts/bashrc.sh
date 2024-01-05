@@ -1,3 +1,3 @@
 #!/bin/bash
 
-cat ./scripts/.bashrc >> ~/.bashrc
+cat  ~/.dotfiles/.bashrc >> ~/.bashrc
